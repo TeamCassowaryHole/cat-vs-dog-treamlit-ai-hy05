@@ -1,4 +1,4 @@
-# 
+# Sécurisé Cat vs Dog Classifier with PyTorch and Streamlit scripts. Avec traitement en temps réel et traitement du langage naturel — optimisé pour des performances maximales.
 
 
 
